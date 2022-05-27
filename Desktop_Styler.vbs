@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "Desktop_Styler.bat", 0, True
